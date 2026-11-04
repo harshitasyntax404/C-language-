@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<conio.h>
+#include <conio.h>
 void main()
 {
     printf(" MY INFORMATION \n");
@@ -23,68 +23,68 @@ void main()
     clrscr();
 
     /* A */
-    printf("A :   *   \n");
-    printf("A :  * *  \n");
-    printf("A : *   * \n");
-    printf("A : ***** \n");
-    printf("A : *   * \n");
-    printf("A : *   * \n\n");
+    printf("A :    *   \n");
+    printf("A :  *   *  \n");
+    printf("A : *      * \n");
+    printf("A : * * * * * \n");
+    printf("A : *       * \n");
+    printf("A : *       * \n\n");
 
     /* B */
-    printf("B : ****  \n");
-    printf("B : *   * \n");
-    printf("B : ****  \n");
-    printf("B : *   * \n");
-    printf("B : *   * \n");
-    printf("B : ****  \n\n");
+    printf("B : * * * *  \n");
+    printf("B : *      * \n");
+    printf("B : * * * *  \n");
+    printf("B : *       * \n");
+    printf("B : *       * \n");
+    printf("B : * * * *  \n\n");
 
     /* C */
-    printf("C : ***** \n");
+    printf("C : * * * * * \n");
     printf("C : *     \n");
     printf("C : *     \n");
     printf("C : *     \n");
     printf("C : *     \n");
-    printf("C : ***** \n\n");
+    printf("C : * * * * * \n\n");
 
     /* D */
-    printf("D : ****  \n");
-    printf("D : *   * \n");
-    printf("D : *   * \n");
-    printf("D : *   * \n");
-    printf("D : *   * \n");
-    printf("D : ****  \n\n");
+    printf("D : * * * *  \n");
+    printf("D : *       * \n");
+    printf("D : *        * \n");
+    printf("D : *        * \n");
+    printf("D : *       * \n");
+    printf("D : * * * *  \n\n");
 
     /* E */
-    printf("E : ***** \n");
+    printf("E : * * * * * \n");
     printf("E : *     \n");
-    printf("E : ****  \n");
+    printf("E : * * * *  \n");
     printf("E : *     \n");
     printf("E : *     \n");
-    printf("E : ***** \n\n");
+    printf("E : * * * * * \n\n");
 
     /* F */
-    printf("F : ***** \n");
+    printf("F : * * * * * \n");
     printf("F : *     \n");
-    printf("F : ****  \n");
+    printf("F : * * * *  \n");
     printf("F : *     \n");
     printf("F : *     \n");
     printf("F : *     \n\n");
 
     /* G */
-    printf("G : ***** \n");
+    printf("G :   * * * * \n");
     printf("G : *     \n");
-    printf("G : * *** \n");
-    printf("G : *   * \n");
-    printf("G : *   * \n");
-    printf("G : ***** \n\n");
+    printf("G : *     * * \n");
+    printf("G : *       * \n");
+    printf("G : *       * \n");
+    printf("G :   * * * * \n\n");
 
     /* H */
-    printf("H : *   * \n");
-    printf("H : *   * \n");
-    printf("H : ***** \n");
-    printf("H : *   * \n");
-    printf("H : *   * \n");
-    printf("H : *   * \n\n");
+    printf("H : *       * \n");
+    printf("H : *       * \n");
+    printf("H : * * * * * \n");
+    printf("H : *       * \n");
+    printf("H : *       * \n");
+    printf("H : *       * \n\n");
 
     /* I */
     printf("I : ***** \n");
