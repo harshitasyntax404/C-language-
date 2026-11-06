@@ -87,20 +87,20 @@ void main()
     printf("H : *       * \n\n");
 
     /* I */
-    printf("I : ***** \n");
-    printf("I :   *   \n");
-    printf("I :   *   \n");
-    printf("I :   *   \n");
-    printf("I :   *   \n");
-    printf("I : ***** \n\n");
+    printf("I : * * * * * \n");
+    printf("I :     *   \n");
+    printf("I :     *   \n");
+    printf("I :     *   \n");
+    printf("I :     *   \n");
+    printf("I : * * * * * \n\n");
 
     /* J */
-    printf("J : ***** \n");
-    printf("J :    *  \n");
-    printf("J :    *  \n");
-    printf("J : *  *  \n");
-    printf("J : *  *  \n");
-    printf("J : ****  \n\n");
+    printf("J : * * * * * \n");
+    printf("J :     *  \n");
+    printf("J :     *  \n");
+    printf("J : *   *  \n");
+    printf("J : *   *  \n");
+    printf("J : * * *  \n\n");
 
     /* K */
     printf("K : *   * \n");
