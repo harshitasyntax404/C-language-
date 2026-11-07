@@ -103,12 +103,12 @@ void main()
     printf("J : * * *  \n\n");
 
     /* K */
-    printf("K : *   * \n");
-    printf("K : *  *  \n");
-    printf("K : ***   \n");
-    printf("K : *  *  \n");
-    printf("K : *   * \n");
-    printf("K : *   * \n\n");
+    printf("K : *     * \n");
+    printf("K : *    *  \n");
+    printf("K : * * *   \n");
+    printf("K : *    *  \n");
+    printf("K : *     * \n");
+    printf("K : *      * \n\n");
 
     /* L */
     printf("L : *     \n");
@@ -116,15 +116,15 @@ void main()
     printf("L : *     \n");
     printf("L : *     \n");
     printf("L : *     \n");
-    printf("L : ***** \n\n");
+    printf("L : * * * * * \n\n");
 
     /* M */
-    printf("M : *   * \n");
-    printf("M : ** ** \n");
-    printf("M : * * * \n");
-    printf("M : *   * \n");
-    printf("M : *   * \n");
-    printf("M : *   * \n\n");
+    printf("M : *     * \n");
+    printf("M : * * * * \n");
+    printf("M : *  *  * \n");
+    printf("M : *     * \n");
+    printf("M : *     * \n");
+    printf("M : *     * \n\n");
 
     /* N */
     printf("N : *   * \n");
