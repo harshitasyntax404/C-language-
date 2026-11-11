@@ -151,12 +151,13 @@ void main()
     printf("P : *     \n\n");
 
     /* Q */
-    printf("Q : ***** \n");
-    printf("Q : *   * \n");
-    printf("Q : *   * \n");
-    printf("Q : * * * \n");
-    printf("Q : *  ** \n");
-    printf("Q : ***** \n\n");
+    printf("Q :   * * * * \n");
+    printf("Q : *         * \n");
+    printf("Q : *         * \n");
+    printf("Q : *    *    * \n");
+    printf("Q : *      *  *\n");
+    printf("Q :   * * * * *\n\n");
+    printf("Q :             *\n");
 
     
     printf("R : * * * *  \n");
@@ -207,12 +208,13 @@ void main()
     printf("W : *       * \n\n");
 
     
-    printf("X : *   * \n");
-    printf("X :  * *  \n");
-    printf("X :   *   \n");
-    printf("X :  * *  \n");
-    printf("X : *   * \n");
-    printf("X : *   * \n\n");
+    printf("X : *     * \n");
+    printf("X :  *   *");
+    printf("X :   * *  \n");
+    printf("X :    *   \n");
+    printf("X :   * *  \n");
+    printf("X :  *   * \n");
+    printf("X : *     * \n\n");
 
     
     printf("Y : *   * \n");
